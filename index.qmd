@@ -7,7 +7,7 @@ about:
    - icon: github
 ---
 
-Welcome to my site! I work in comparative political economy, focusing on issues surrounding informal economics, digitization and misinformation in Central, Eastern Europe and Eurasia. I'm interested in the interaction of these issue areas with state capacity, financial and digital literacy. In addition, I have a passion for computational methods, measurement challenges and the operationalization of natural language processing and machine learning models to issues of political science, notably misinformation.
+Welcome to my site. I am a political economy scholar working at the intersection of international political economy, digital finance, and information politics. My research examines how states, markets, and digital communities negotiate authority in emerging economic and informational spaces, with a particular focus on cryptocurrency regulation, informal economies, and digital financial governance. I also study foreign influence, disinformation, and strategic narratives in international relations, especially how state actors use digital platforms to shape political meaning across borders. Across these projects, I use computational methods, including natural language processing, machine learning, and large-scale text analysis, to address problems of measurement, classification, and political interpretation.
 
 I am affiliated with the Centre for International Peace and Security Studies and I am a member of the Democracy, Transparency, Information Provision, and Participation lab, led by Prof. Aaron Erlich, a research lab affiliated with the Centre for the Study of Democracy and Citizenship in the Department of Political Science at McGill University.
 
