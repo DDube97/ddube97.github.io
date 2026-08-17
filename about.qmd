@@ -8,9 +8,11 @@ format:
 
 I am a PhD candidate in the Department of Political Science at McGill University in Montréal.
 
-My research sits at the intersection of international political economy, digital finance, and information politics. My dissertation examines the governance of cryptocurrency and emerging digital financial markets, with a particular focus on how states, firms, and crypto communities negotiate authority, legitimacy, and regulation. More broadly, I am interested in how state capacity, institutional trust, and market infrastructures shape economic and political behaviour in digital and informal economies.
+My research sits at the intersection of international political economy, digital finance, and information politics. My dissertation examines the governance of cryptocurrency and emerging digital financial markets, with a particular focus on how states, firms, and crypto communities negotiate authority, legitimacy, and regulation. More broadly, I am interested in how state capacity, institutional trust, and market infrastructures shape economic and political behaviour in digital economies.
 
-I also work on questions of international relations, disinformation, and strategic communication. My research examines how state actors exploit digital information ecosystems to promote strategic narratives, influence political interpretation, and contest international order. This work is especially concerned with the measurement and detection of misinformation, foreign influence, and inauthentic or synthetic content across digital platforms.
+I also work on questions of international relations, disinformation, and strategic communication. My research examines how state actors exploit digital information ecosystems to promote strategic narratives, influence political interpretation, and contest international order, with particular attention to Russian and Chinese foreign influence campaigns. This work is especially concerned with the measurement and detection of misinformation, foreign influence, and inauthentic or synthetic content across digital platforms. Through past experience as a Senior Data Analyst with *Global Affairs Canada*'s Rapid Response Mechanism, and as Research Team Leader at the Canadian Network on Information and Security, I lead applied research and analytical work on foreign information manipulation targeting Canada and its allies.
+
+My work is under review or forthcoming at journals such as the *British Journal of Political Science*, *Reviews of International Political Economy*, the *Journal of Experimental Political Science*, and the *International Journal*.
 
 Methodologically, I combine qualitative, quantitative, and computational approaches. My training includes interviews, field observation, focus groups, surveys, experiments, and causal inference, as well as natural language processing, machine learning, and large-scale text analysis. Across my projects, I am especially interested in how computational methods can help address measurement challenges in political science while remaining attentive to theory, context, and interpretation.
 
@@ -21,6 +23,7 @@ Beyond political science, I am fond of data science, astrophysics, and linguisti
 Here is my CV:
 
 <iframe src="files/CV_DavidDube.pdf" width="100%" height="800px" style="border: none;">
-This browser does not support PDFs. Please download the PDF to view it: 
-<a href="files/CV_DavidDube.pdf">Download PDF</a>.
+
+This browser does not support PDFs. Please download the PDF to view it: <a href="files/CV_DavidDube.pdf">Download PDF</a>.
+
 </iframe>

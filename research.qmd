@@ -8,20 +8,28 @@ I am also interested in issues pertaining to identifying and measuring misinform
 
 *Research Projects:*
 
-**Authoritarian Global Foreign Disinformation Strategies:** This research, in collaboration with Prof. Jean-Christophe Boucher (University of Calgary) investigates the foreign disinformation strategies of China and Russia on social media platforms (Twitter/X, Telegram, Facebook) in Western and Global South countries. We leverage unsupervised natural language processing (NLP) models to analyze and structure Chinese and Russian strategies and narratives in a data-driven fashion to enable the construction of a theoretical framework of authoritarian foreign disinformation.
+**Narrative Architectures of Authoritarian Disinformation:** This research, in collaboration with Prof. Jean-Christophe Boucher (University of Calgary), investigates the foreign disinformation strategies of China and Russia on social media platforms (Twitter/X, Telegram, Facebook, TikTok) in Western and Global South countries. We leverage unsupervised natural language processing (NLP) models to analyze and structure Chinese and Russian strategies and narratives in a data-driven fashion to enable the construction of a theoretical framework of authoritarian foreign disinformation. This research stems from the willingness to use highly strategically-structured and centralized state-disseminated (dis)information to make sense of the much broader complex ecosystem of authoritarian disinformation.
 
-This research stems from the willingness to use highly strategically-structured and centralized state-disseminated (dis)information to make sense of the much broader complex ecosystem of authoritarian disinformation.
+**Great Power Strategic Communication:** This project extends the authoritarian disinformation framework into a broader comparative analysis of great power information strategies, examining the United States, China, Russia, France, the United Kingdom, and India. The goal is to situate authoritarian disinformation strategies within a wider comparative context of how major powers, both democratic and authoritarian, construct and deploy strategic narratives internationally.
 
-**Cross-Country Diaspora Survey Matching:** This research seeks to build a survey-experimental design on the media consumption practices of Chinese, Russian and Indian diasporas living in the United States and Canada. The goal is to match these individuals with co-nationals in their home countries to investigate the relationship between media consumption, political preferences and behaviour. This research seeks to promote the use of pre-registration and pre-acceptance publication mechanisms as ways to promote the development of more rigorous research design, research transparency, replicability and incentivize exploratory research by encouraging the publication of null and negative results.
+**Multimodal Detection of Inauthentic Content on TikTok:** This methods-oriented project develops multimodal analysis techniques, combining video, audio, and text, to detect inauthentic material linked to disinformation and information operations on TikTok and other multimodal platforms, with potential extension to YouTube.
 
-**Russian Emigrants in the Former Soviet Union:** Leveraging vignette survey experiment data of Russian citizens living who left Russia to live in other former soviet republics, this study investigates the political preferences and investigates their political preferences. It also explores the determinants most likely to influence their willingness to move back to Russia. This research is part of a broader research program for scholars of the Former Soviet Union and authoritarian regimes who seek to refine their techniques of ethical data collection surrounding political behaviour in authoritatian context.
+**AI Regulation in Comparative Political Economy:** This project (in early development) examines the regulation of artificial intelligence in comparison to other digital technologies, including cryptocurrency and fintech, in the United States and
 
-*Working Papers:*
+*Peer-Reviewed Publications:*
 
-Dubé D., Boucher J-C, "Whispers from the Kremlin: Inoculating Against Russian Propaganda in the Global South", Presented at APSA 2024 in Philadelphia. Available here:
+Dubé D., Boucher J-C., Farouk I. (Revise and Resubmit at *British Journal of Political Science*), "Russia's Narrative Dominance Beyond the West: Constructing an Alternative Information Order."
 
-Dubé D., "Should I Stay of Should I go? The Determinants of Russian Emigrants Willingness to Return Home". Available here:
+Dubé D. (Under Review at *Reviews of International Political Economy*), "Crypto at the Gates: Why Crypto Entrepreneurs Seek Regulatory Integration."
+
+Dubé D., Erlich A. (Under Review at *Journal of Experimental Political Science*), "The Sources and Limits of European Influence on Public Opinion in EU Candidate Countries."
+
+Dubé D., Zheng K., Boucher J-C. (Forthcoming at *International Journal)*, "Taiwan-China Relations Coverage in Canadian Media," 2026
 
 *Peer Reviewed Book Chapter:*
 
 Dubé D (2024). "Baby You Can Drive my Car: From Trump to Biden, the US-Canada Auto Industry Commercial Policy, in Gagnon F., Cloutier-Roy F. (eds), America First, Then Canada, University of Montreal Press, pp.55-68.
+
+*Working Papers:*
+
+Dubé D., Boucher J-C., "Short Videos, Long Wars: Chinese Foreign Information Operations in the United States on TikTok."
