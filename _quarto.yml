@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
+    - images/profile.png
 
 website:
   title: "David Dubé"
@@ -15,7 +18,6 @@ website:
       - href: files/CV_DavidDube.pdf
         text: CV
         target: _blank  # Opens the CV in a new tab
-
 format:
   html:
     theme: minty
@@ -23,5 +25,4 @@ format:
     toc: true
     execute:
       allow-html: true
-
 editor: visual
